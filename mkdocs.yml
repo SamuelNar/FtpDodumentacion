@@ -1,0 +1,19 @@
+site_name: Documentación Ftp Lidercom
+nav:
+  - Inicio: index.md
+  - Acceso al servidor:
+      - Vista general: accessing_server/index.md
+  - Operaciones de archivos:
+      - Subir archivos: file_operations/upload.md
+      - Descargar archivos y carpetas: file_operations/download.md
+      - Eliminar Archivos: file_operations/delete.md
+      - Crear carpetas: file_operations/create_folder.md
+theme:
+  name: readthedocs
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc
+  - pymdownx.details
+
+
