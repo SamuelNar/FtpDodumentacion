@@ -9,6 +9,8 @@
 
 ## Consideraciones
 - Solo los usuarios con permisos adecuados pueden eliminar archivos.
-- Los archivos eliminados no se pueden recuperar, asegúrate antes de confirmar.
+- Los archivos eliminados <span style="font-weight: bold; color: red;">**NO SE PUEDEN RECUPERAR**</span>, asegúrate antes de confirmar.
 
-> **Advertencia:** Revisa dos veces antes de eliminar carpetas completas.
+<div style="font-size: 20px; color: red;">
+    <strong>Advertencia:</strong> Revisa dos veces antes de eliminar carpetas completas.
+</div>
