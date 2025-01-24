@@ -13,7 +13,7 @@ Si por alguna razón no puedes acceder al servidor, puedes probar usar los sigui
 ## Pasos para Iniciar Sesión
 1. Abre tu navegador.
 2. Ingresa la URL del servidor: `ftps.lidercom.net.ar`.
-3. Proporciona tu usuario y contraseña en la ventana de inicio de sesión (usuario: `lidercom` contraseña: `123lidercom456`).
+3. Proporciona tu usuario y contraseña en la ventana de inicio de sesión (usuario: `lidercom` contraseña: `123l1d3rC0m456`).
 4. Una vez dentro, podrás ver los archivos y carpetas disponibles.
 
 > **Nota:** Si tienes problemas para acceder, consulta a snarvaja@lidercom.net.ar.
