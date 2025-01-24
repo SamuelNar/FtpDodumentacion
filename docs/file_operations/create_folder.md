@@ -6,9 +6,10 @@ En el servidor FTP lidercom, puedes organizar tus archivos creando carpetas. Est
 ## Pasos para Crear una Carpeta
 1. Inicia sesión en el servidor como se describe en [Acceso al Servidor](../accessing_server/index.md).
 2. Navega a la ubicación donde deseas crear la nueva carpeta.
-3. Haz clic en el botón **Nueva Carpeta** o **Create Folder** (el nombre puede variar según la configuración del servidor).
-4. Escribe el nombre deseado para la carpeta.
-5. Haz clic en **Aceptar** o **Crear** para confirmar.
+3. Haz clic en el botón **Subir**
+4. Selecciona la opción **Crear carpeta**
+5. Escribe el nombre deseado para la carpeta.
+6. Haz clic en **Continuar** para confirmar.
 
 ## Consideraciones
 - Evita usar caracteres especiales en los nombres de las carpetas.
